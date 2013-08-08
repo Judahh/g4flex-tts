@@ -334,8 +334,8 @@ public class Word {
 
 	// faz o trabalho para o metodo hasConsonantAORule
 	private boolean hasAO(int index) {
-		return ((this.word.charAt(index) == 'ã') && (this.word
-				.charAt(index + 1) == 'o'));
+		return ((this.word.charAt(index) == 'ã') && 
+				((this.word.charAt(index + 1) == 'o')||(this.word.charAt(index + 1) == 'e')));
 	}
 
 	private boolean hasConsonantAorOESRule(int index) {

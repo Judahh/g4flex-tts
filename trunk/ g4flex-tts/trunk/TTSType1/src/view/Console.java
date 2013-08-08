@@ -8,10 +8,11 @@ public class Console {
 		// System.out.println("sfdasdf");
 		// System.out.println("ÁÀASÀPkJPIHJpihàiHIDJÇadjapsdÇÇÁsopççÕADWOEFIWOçÇáéíóúÁÉÍÓÚàèìòùÀÈÌÒÙãẽĩõũÃẼĨÕŨâêîôûÂÊÎÔÛ".toLowerCase());
 		Phrase phrase = new Phrase("Geneflides",// "Sim ontem. Não são. Vru.Vrum. Vrão. Vrões. Ermitão. Aldeão. Aldeões. Em um local muito muito distante existia um Gigante, então descobrimos que era um macaco com telescopio no museu do Paraguai, Alexandre"
-									// + "E aí Geneflides gostou do TTS?" +
-				"obrigado por ligar para. Disque 1 para suporte, 2 para financeiro 3 para boletos, 4 para vendas 5 para implantação "
-				+ " 6 para falar com um de nossos atendentes"
-				+ " por favor aguarde mais alguns que logo lhe atenderemos. Se preferir, utilize"
+									// + "E aí Geneflides gostou do TTS?" 
+				"oi ei ai mãe mão mães voo"
+//				"obrigado por ligar para. Disque 1 para suporte, 2 para financeiro 3 para boletos, 4 para vendas 5 para implantação "
+//				+ " 6 para falar com um de nossos atendentes"
+//				+ " por favor aguarde mais alguns que logo lhe atenderemos. Se preferir, utilize"
 
 //				"instantes macaco"
 //				"instantes brões guões guams brãos guais guasa brãosa gura guõesa guaisa brõespa brães brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespaguaspa brãospa gurpa guõespa guaispa brõespa brãespa"
